@@ -1,0 +1,16 @@
+@font-face {
+   font-family: 'Typo_FactoryEB';
+   src: url('Typo_FactoryEB/font.ttf');
+}
+@font-face {
+   font-family: 'SourceSansPro-Regular';
+   src: url('SourceSansPro-Regular/font.otf');
+}
+@font-face {
+   font-family: 'LibbyHeavy';
+   src: url('LibbyHeavy/font.ttf');
+}
+@font-face {
+   font-family: 'Overpass_Bold';
+   src: url('Overpass_Bold/font.ttf');
+}
